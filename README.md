@@ -11,4 +11,3 @@ Plain file transfer server and clients
 ## History
 
 This project was developed for an high school assignment in 2017.
-A
